@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows Thumbs
+Thumbs.db
+
+# Vim swap files
+*.swp
+
+# IDE/Editor folders (examples, add yours if needed)
+.vscode/
+.idea/
+
+# Cursor Workspace
+*.code-workspace
+
