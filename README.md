@@ -32,11 +32,15 @@ This project provided valuable hands-on experience in threat intelligence gather
 
 ### Global Attack Visualization
 ![T-Pot Attack Map showing global attack origins](./assets/attack_map.png)
+\
+\
 ![T-Pot Attack Map in action, showing attack details](./assets/attack_map_in_action.png)
 *The live Attack Map provides a real-time geographic visualization of attacks targeting the honeypot infrastructure.*
 
 ### Internal Honeypot Dashboard
 ![Top section of Kibana dashboard showing event summaries and metrics](./assets/kibana_top.jpeg)
+\
+\
 ![Bottom section of Kibana dashboard showing detailed logs and attacker details](./assets/kibana_bottom.jpeg)
 *The internal Kibana dashboard aggregates detailed logs and metrics from various honeypot sensors for analysis.*
 
