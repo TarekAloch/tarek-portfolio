@@ -20,7 +20,13 @@ Welcome! Consider this my digital portfolio where I document my hands-on experie
 
 ## Featured Project: T-Pot CE Honeypot Co-Hosting & Customization
 
-This section details the deployment and management of a complex T-Pot CE honeypot environment. **A key challenge addressed was successfully co-hosting the multi-container T-Pot stack alongside existing production web services on a single OCI ARM instance.** This required developing custom Nginx reverse proxy routing strategies, advanced firewall rule management to prevent T-Pot from blocking administrative access, and implementing server-side data sanitization to protect infrastructure details on public dashboards. The project provided valuable hands-on experience in threat intelligence gathering, system integration, and security configuration.
+This project details the deployment and management of a complex T-Pot CE honeypot environment. **A key challenge addressed was successfully co-hosting the multi-container T-Pot stack alongside existing production web services on a single OCI ARM instance.** Overcoming this required:
+
+*   Developing custom **Nginx reverse proxy routing strategies** to logically separate honeypot traffic from legitimate web traffic.
+*   Implementing advanced **firewall rule management** (`iptables` via `systemd`) to prevent T-Pot's dynamic blocking from interfering with essential administrative access.
+*   Engineering a **server-side data sanitization solution** (Python modification within T-Pot's data pipeline) to securely expose the live Attack Map visualization via Cloudflare Tunnel without leaking sensitive infrastructure details.
+
+This project provided valuable hands-on experience in threat intelligence gathering, system integration, secure configuration, and complex problem-solving.
 
 ## T-Pot Honeypot Visualization
 
@@ -34,7 +40,11 @@ This section details the deployment and management of a complex T-Pot CE honeypo
 ![Bottom section of Kibana dashboard showing detailed logs and attacker details](./assets/kibana_bottom.jpeg)
 *The internal Kibana dashboard aggregates detailed logs and metrics from various honeypot sensors for analysis.*
 
-**➡️ [Explore the Full T-Pot Project Details](./Honeypot_Project_T-Pot_CE/)**
+
+📊 **Dive deeper into the collected threat intelligence: [Attack Visualizations & Dashboard Examples](./Honeypot_Project_T-Pot_CE/5_Dashboard_Examples/)**
+\
+\
+**➡️ [Explore the Full T-Pot Project Details (Architecture, Co-Hosting Story, Sanitization Fix)](./Honeypot_Project_T-Pot_CE/)**
 
 ## Troubleshooting & Problem Solving Case Studies
 
