@@ -12,7 +12,7 @@ Kibana is used to visualize the aggregated log data collected from the various h
 
 ### Kibana Dashboard - Overview Metrics
 
-![Top section of Kibana dashboard showing event summaries and metrics](./../assets/kibana_top.jpeg)
+![Top section of Kibana dashboard showing event summaries and metrics](../../assets/kibana_top.jpeg)
 
 *This overview dashboard presents key threat metrics collected across all honeypot services, including:*
 *   📈 Attack volume trends over time, highlighting peak attack periods.
@@ -23,7 +23,7 @@ Kibana is used to visualize the aggregated log data collected from the various h
 
 ### Kibana Dashboard - Detailed Attack Analysis
 
-![Bottom section of Kibana dashboard showing detailed logs and attacker details](./../assets/kibana_bottom.jpeg)
+![Bottom section of Kibana dashboard showing detailed logs and attacker details](../../assets/kibana_bottom.jpeg)
 
 *This detailed view focuses on specific attack patterns and vectors, revealing:*
 *   🔑 SSH/Telnet brute force attempts, including common **usernames** and **passwords** used globally.
@@ -41,13 +41,13 @@ The T-Pot Attack Map provides a real-time geographical visualization of attack s
 
 ### Attack Map - Static View & Recent Events
 
-![T-Pot Attack Map interface showing recent attack details by IP, Country, and Service](./../assets/attack_map.png)
+![T-Pot Attack Map interface showing recent attack details by IP, Country, and Service](../../assets/attack_map.png)
 
 *This view shows the geographic distribution of recent attacks and lists specific event details like Source IP, Country, Targeted Honeypot, and Service Protocol.*
 
 ### Attack Map - Live Action View 💥
 
-![T-Pot Attack Map showing global attack origins and destinations with colored connection lines](./../assets/attack_map_in_action.png)
+![T-Pot Attack Map showing global attack origins and destinations with colored connection lines](../../assets/attack_map_in_action.png)
 
 *This dynamic visualization displays attacks **in real-time** as they occur. The lines connecting the attacker's origin country to the honeypot location are color-coded based on the targeted service protocol:*
 
