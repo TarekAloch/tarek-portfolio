@@ -21,4 +21,6 @@ Each study follows a structured format:
 
 *   **[1_CaseStudy_Secure_Multiplexed_Access_via_SSH_Config.md](./1_CaseStudy_Secure_Multiplexed_Access_via_SSH_Config.md):** 🔐 Chronicles the evolution from cumbersome command-line port forwarding to an elegant and secure solution using the client-side `~/.ssh/config` file (`LocalForward`) to provide multiplexed access to multiple internal services through a single, hardened SSH entry point. Demonstrates advanced SSH configuration, security architecture thinking, and usability improvements.
 
+*(Note: A detailed case study on the specific data sanitization challenges for the Attack Map can be found within the [Honeypot Project's Data Sanitization Subproject](../Honeypot_Project_T-Pot_CE/4_Data_Sanitization_Subproject/CaseStudy_Attack_Map_Data_Sanitization.md).)*
+
 *(More case studies documenting other challenges, such as DNS resolution and container management issues, will be added as they are finalized.)*

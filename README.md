@@ -4,7 +4,7 @@
 
 Welcome! Consider this my digital portfolio where I document my hands-on experience with IT Systems Administration, Oracle Cloud Infrastructure, practical Cybersecurity Operations, time-saving Automation solutions, and the complex Troubleshooting challenges I've solved along the way. I'm passionate about building secure, efficient systems and hope my work gives you some insight into my technical approach and problem-solving style.
 
-**More updates coming soon!**
+
 
 ## Focus Areas & Key Highlights ✨
 
@@ -46,18 +46,19 @@ This project provided valuable hands-on experience in threat intelligence gather
 👀 **Dive deeper into the collected threat intelligence: [View Attack Visualizations & Dashboard Examples](./Honeypot_Project_T-Pot_CE/5_Dashboard_Examples/)**
 \
 \
-**➡️ [Explore the Full T-Pot Project Details](./Honeypot_Project_T-Pot_CE/)**
-
-## Troubleshooting & Problem Solving Case Studies 🕵️‍♂️
+## Troubleshooting & Problem Solving Case Studies 🕵️‍♂️🔧
 
 Effective troubleshooting is critical in IT. Documenting challenges and their resolutions can help others uncover key bugs and make significant breakthroughs. This section contains detailed case studies showcasing the investigation and resolution of significant technical challenges encountered.
 
+A particularly complex challenge involved **securing the public Attack Map by implementing server-side data sanitization**; the full investigation is detailed within the T-Pot project section below.
+
 **➡️ [View Troubleshooting Case Studies](./Troubleshooting_Case_Studies/)**
-*(Includes: **Secure Multiplexed Access via SSH Config**, OCI Host DNS Conflicts, Portainer Integration Issues, T-Pot Service Startup Fixes)*
+*(Includes: [1_Secure Multiplexed Access via SSH Config](./Troubleshooting_Case_Studies/1_CaseStudy_Secure_Multiplexed_Access_via_SSH_Config.md))* 
+*(See Also: [Attack Map Data Sanitization Case Study](./Honeypot_Project_T-Pot_CE/4_Data_Sanitization_Subproject/CaseStudy_Attack_Map_Data_Sanitization.md))* 
 
 ## Custom Automation & Monitoring ⚙️
 
-To improve environment stability and visibility, custom tooling was developed. This section includes a comprehensive Bash script created specifically for monitoring the health and status of the T-Pot deployment's various components.
+To improve environment stability and visibility, custom tooling was developed. This section features a comprehensive, **configuration-agnostic Bash script** created specifically for **deep health monitoring** of the T-Pot deployment. It dynamically detects services and performs checks beyond basic uptime, including log analysis, resource usage, network accessibility, and complex firewall rule validation.
 
 **➡️ [See Automation & Monitoring Scripts](./Custom_Automation_And_Monitoring/)**
 
