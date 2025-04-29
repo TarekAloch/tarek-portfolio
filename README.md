@@ -39,8 +39,6 @@ This project provided valuable hands-on experience in threat intelligence gather
 
 ### Internal Honeypot Dashboard
 ![Top section of Kibana dashboard showing event summaries and metrics](./assets/kibana_top.jpeg)
-\
-\
 ![Bottom section of Kibana dashboard showing detailed logs and attacker details](./assets/kibana_bottom.jpeg)
 *The internal Kibana dashboard aggregates detailed logs and metrics from various honeypot sensors for analysis.*
 
