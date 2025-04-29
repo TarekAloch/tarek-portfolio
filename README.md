@@ -46,7 +46,7 @@ This project provided valuable hands-on experience in threat intelligence gather
 📊 **Dive deeper into the collected threat intelligence: [Attack Visualizations & Dashboard Examples](./Honeypot_Project_T-Pot_CE/5_Dashboard_Examples/)**
 \
 \
-**➡️ [Explore the Full T-Pot Project Details (Architecture, Co-Hosting Story, Sanitization Fix)](./Honeypot_Project_T-Pot_CE/)**
+**➡️ [Explore the Full T-Pot Project Details](./Honeypot_Project_T-Pot_CE/)**
 
 ## Troubleshooting & Problem Solving Case Studies
 
