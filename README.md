@@ -9,7 +9,7 @@ Welcome! Consider this my digital portfolio where I document my hands-on experie
 ## Focus Areas & Key Highlights ✨
 
 *   **Linux Administration:** Ubuntu Server setup, Systemd service management, performance tuning, package management, user administration, BASH scripting.
-*   **Networking:** TCP/IP fundamentals, DNS resolution (diagnosis & configuration), Firewall management (iptables, UFW), network troubleshooting.
+*   **Networking:** TCP/IP fundamentals, DNS resolution (diagnosis & configuration), Firewall management (iptables, OCI firewall), network troubleshooting.
 *   **Secure Access Architecture:** 🔐 **Designed and implemented a robust remote access strategy leveraging advanced SSH tunneling (`LocalForward`) and `~/.ssh/config` management to provide secure, multiplexed access to multiple internal services (Web UIs, RDP, etc.) through a single, hardened SSH entry point, significantly minimizing the external attack surface.** *(See the dedicated [Secure Access via SSH Config Case Study](./Troubleshooting_Case_Studies/1_CaseStudy_Secure_Multiplexed_Access_via_SSH_Config.md))*
 *   **Cybersecurity:** Honeypot deployment & management (T-Pot CE), basic threat intelligence analysis (via ELK), log analysis principles, data sanitization techniques, server hardening best practices, IDS concepts (Suricata).
 *   **Containerization:** Docker & Docker Compose (deployment, networking, volume management), container lifecycle management, Portainer administration & troubleshooting.
