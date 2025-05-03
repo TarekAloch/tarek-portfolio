@@ -14,7 +14,14 @@ Welcome! Consider this my digital portfolio where I document my hands-on experie
 *   **Cybersecurity:** Honeypot deployment & management (T-Pot CE), basic threat intelligence analysis (via ELK), log analysis principles, data sanitization techniques, server hardening best practices, IDS concepts (Suricata).
 *   **Containerization:** Docker & Docker Compose (deployment, networking, volume management), container lifecycle management, Portainer administration & troubleshooting.
 *   **Web Server / Proxy:** Nginx configuration (reverse proxy, virtual hosts, TLS/SSL setup, security headers, location blocks).
-*   **Scripting:** Bash shell scripting (automation, monitoring), Python (data processing, basic API interaction - demonstrated in sanitization script).
+*   **Scripting & Automation:** 
+    *   Bash shell scripting (automation, monitoring).
+    *   Python (data processing, basic API interaction - demonstrated in sanitization script).
+    *   **Node.js (Web Test Automation via Puppeteer).**
+*   **Testing & QA Concepts:** 
+    *   **Visual Regression Testing.**
+    *   **Web Performance Monitoring & Metrics Collection.**
+    *   **Animation Capture & Comparison.**
 *   **Troubleshooting:** Systematic diagnosis and resolution of complex, multi-layered issues involving OS, networking, containerization, and application conflicts. *(See Case Studies section)*.
 *   **Cloud Infrastructure:** Oracle Cloud Infrastructure (OCI) VM instance deployment and management, network security groups.
 
@@ -61,6 +68,15 @@ A particularly complex challenge involved **securing the public Attack Map by im
 To improve environment stability and visibility, custom tooling was developed. This section features a comprehensive, **configuration-agnostic Bash script** created specifically for **deep health monitoring** of the T-Pot deployment. It dynamically detects services and performs checks beyond basic uptime, including log analysis, resource usage, network accessibility, and complex firewall rule validation.
 
 **➡️ [See Automation & Monitoring Scripts](./Custom_Automation_And_Monitoring/)**
+
+## Visual Web Testing Framework 📸
+
+Developed a comprehensive testing framework using Node.js and Puppeteer designed to automate visual validation, animation comparison, and performance benchmarking for web applications.
+
+*   **Key Features:** Pixel-by-pixel visual regression testing, animation sequence capture (GIF comparison via ImageMagick), performance metrics collection (FCP, Load Time, etc.), configurable viewports/components, and detailed HTML reporting.
+*   **Skills Demonstrated:** Node.js, Puppeteer automation, JavaScript (ES6+ Async/Await), testing methodologies, configuration management.
+
+**➡️ [Explore the Visual Web Testing Framework](./Visual_Web_Testing_Framework/)**
 
 ## Server Security & Hardening Practices 🔒
 
