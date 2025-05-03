@@ -1,0 +1,17 @@
+{
+  "name": "visual-web-testing-framework",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.3.0",
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "puppeteer": "^24.7.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "chart.js": "^3.9.1",
+    "eslint": "^9.26.0",
+    "globals": "^16.0.0",
+    "prettier": "3.5.3"
+  }
+}

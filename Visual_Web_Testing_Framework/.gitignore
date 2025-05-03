@@ -1,0 +1,45 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Test Output Directories (created by setup.js / test runs)
+tests/screenshots/
+tests/components/
+tests/animations/
+tests/reports/
+tests/performance/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Build Output (if any were added later)
+dist/
+build/
+
+# Environment Variables file (if used)
+.env
+.env.*
+!.env.example
+
+# Editor directories and files
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.sublime-workspace
+
+# Miscellaneous
+*.swp
