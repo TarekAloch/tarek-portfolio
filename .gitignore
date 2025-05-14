@@ -1,16 +1,48 @@
 # macOS
 .DS_Store
 
-# Windows Thumbs
+# Windows
 Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Linux
+*~
 
 # Vim swap files
 *.swp
+*.[a-z].sw[a-p]
 
-# IDE/Editor folders (examples, add yours if needed)
+# IDE/Editor Specific
 .vscode/
 .idea/
+*.project
+*.iml
+*.suo
+*.user
+*.sln.docstates
 
 # Cursor Workspace
 *.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node.js (very general, if you have node projects outside of ChronoView)
+# node_modules/
+
+# General Logs (use with caution - ensure no important logs are ignored)
+# *.log
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+
+# General Build/Distribution
+# build/
+# dist/
+
+# Archives (if you make temporary archive folders)
+# .archive/
 
