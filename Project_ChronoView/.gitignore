@@ -1,0 +1,56 @@
+# Project ChronoView Specific .gitignore
+
+# Node.js dependencies
+node_modules/
+
+# Logs (specific to this project if it generates them at its root)
+# logs/ # Uncomment if ChronoView creates a root 'logs' folder
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Test Output Directories (created by setup.js / test runs)
+# These are relative to Project_ChronoView/
+tests/screenshots/test/
+tests/screenshots/diff/
+tests/reports/
+tests/animations/*
+!tests/animations/.gitkeep # Keep this empty dir if needed
+tests/components/*
+!tests/components/.gitkeep # Keep this empty dir if needed
+tests/performance/*
+!tests/performance/.gitkeep # Keep this empty dir if needed
+
+# --- Ensure specific files ARE tracked (negation rules) ---
+# These ensure that if a broader rule above (or a future one)
+# accidentally ignores them, they are re-included.
+# The baseline screenshot and diff history ARE part of the project's source.
+!tests/screenshots/baseline/ # Un-ignore the baseline directory itself
+!tests/screenshots/baseline/* # Un-ignore all contents of the baseline directory
+!tests/screenshots/diff_history.json
+
+# Example of how to include a specific report if ever needed,
+# while generally ignoring the tests/reports/ directory.
+# example: !tests/reports/example_individual_report.html
+
+# Build Outputs (if ChronoView had a distinct build step)
+# dist/
+# build/
+
+# Environment Variables file (if used locally for ChronoView development)
+.env
+.env.*
+!.env.example # Standard practice to commit an example env file
+
+# Archives created *within* Project_ChronoView
+# .archive/
+
+# --- Optional OS/Editor ignores (for self-containment) ---
+# These might be redundant if covered by the root .gitignore, but don't harm.
+# .DS_Store
+# Thumbs.db
+# *.swp
+# .vscode/ # If you open Project_ChronoView as its own workspace sometimes
