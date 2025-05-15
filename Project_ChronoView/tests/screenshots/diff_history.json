@@ -1,0 +1,4221 @@
+[
+  {
+    "timestamp": "2025-05-04T15:27:46.941Z",
+    "diff": 0.0050796481244346995,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T15-27-36-580Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T15:30:12.124Z",
+    "diff": 0.016376179028028286,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T15-30-01-838Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T16:00:11.638Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T16-00-01-375Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T16:20:42.716Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T16-20-32-697Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T16:41:23.066Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T16-41-13-148Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T16:43:34.293Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T16-43-23-675Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T16:44:17.957Z",
+    "diff": 0,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-04T17:00:12.002Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T17-00-01-913Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T17:30:11.881Z",
+    "diff": 2.419823693247884,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T17-30-01-319Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T18:00:12.429Z",
+    "diff": 2.3614829236635027,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T18-00-02-141Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T18:30:11.967Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T18-30-01-703Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T19:00:13.847Z",
+    "diff": 1.2779535437116356,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T19-00-02-451Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T19:30:12.188Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T19-30-02-115Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T20:00:11.456Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T20-00-01-435Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T20:30:11.884Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T20-30-01-710Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T21:00:12.191Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T21-00-02-144Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T21:30:11.856Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T21-30-01-539Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T22:00:12.134Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T22-00-02-109Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T22:30:11.456Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T22-30-01-401Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T23:00:12.043Z",
+    "diff": 1.9662799816121794,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T23-00-01-719Z.html"
+  },
+  {
+    "timestamp": "2025-05-04T23:30:11.873Z",
+    "diff": 1.505164814364133,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-04T23-30-01-314Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T00:00:12.260Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T00-00-02-270Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T00:30:11.570Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T00-30-01-511Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T01:00:11.760Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T01-00-01-829Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T01:00:44.743Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T01-00-34-965Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T01:30:12.134Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T01-30-02-018Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T02:00:11.490Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T02-00-01-401Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T02:30:11.800Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T02-30-01-765Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T03:00:12.311Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T03-00-02-059Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T03:30:11.665Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T03-30-01-583Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T04:00:12.154Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T04-00-01-932Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T04:30:11.701Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T04-30-01-467Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:00:12.121Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-00-01-964Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:08:00.684Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-07-50-379Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:10:40.881Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-10-30-712Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:11:28.195Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-11-18-114Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:13:58.380Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-13-48-178Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:15:33.497Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-15-23-498Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:16:41.649Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-16-31-784Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T05:30:12.234Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T05-30-01-428Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T06:00:18.918Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T06-00-01-494Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T06:02:15.311Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T06-01-58-187Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T06:30:12.980Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T06-30-02-231Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T06:43:42.266Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T06-43-32-379Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T06:47:49.335Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T06-47-39-374Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:00:11.397Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-00-01-258Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:30:11.945Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-30-01-655Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:36:30.048Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-36-20-126Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:36:53.501Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T07:37:11.703Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-37-01-792Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:37:52.224Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T07:38:50.758Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-38-40-268Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:39:28.184Z",
+    "diff": 0.1600166251039069,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T07-39-17-206Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T07:55:23.675Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T08:00:12.791Z",
+    "diff": 0.01998023008812333,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T08-00-02-199Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T08:11:23.170Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T08:35:12.710Z",
+    "diff": 0.027844596685944634,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T08-35-02-069Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T08:49:01.643Z",
+    "diff": 3.453948570968992,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T08-48-50-658Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T08:53:13.171Z",
+    "diff": 3.442981333762274,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T08-53-00-661Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T09:05:12.472Z",
+    "diff": 3.4190361991942737,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T09-05-02-169Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T09:29:41.788Z",
+    "diff": 3.5363856373061537,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T09:30:17.650Z",
+    "diff": 3.5363856373061537,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T09:30:57.271Z",
+    "diff": 3.5363856373061537,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T09:32:27.143Z",
+    "diff": 3.5298052949821233,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T09:33:08.044Z",
+    "diff": 3.5298052949821233,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-05T09:34:00.400Z",
+    "diff": 3.5298052949821233,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T09-33-49-359Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T09:35:12.678Z",
+    "diff": 3.5298052949821233,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T09-35-01-768Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T10:05:01.989Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T10-05-01-799Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T10:15:01.334Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T10-15-01-216Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T10:35:01.693Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T10-35-01-581Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T11:05:02.095Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T11-05-01-926Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T11:35:01.522Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T11-35-01-375Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T12:05:01.903Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T12-05-01-779Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T12:35:02.364Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T12-35-02-168Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T13:05:01.732Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T13-05-01-615Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T13:35:02.179Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T13-35-01-986Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T14:05:01.541Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T14-05-01-427Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T14:35:01.923Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T14-35-01-791Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T15:05:02.296Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T15-05-02-178Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T15:35:01.697Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T15-35-01-550Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T16:05:02.053Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T16-05-01-936Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T16:35:01.430Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T16-35-01-314Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T17:05:01.863Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T17-05-01-676Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T17:35:02.258Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T17-35-02-131Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T17:48:11.441Z",
+    "diff": 0.6220251369076778,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T17-47-58-763Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T18:05:11.986Z",
+    "diff": 0.6330533032099884,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T18-05-01-505Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T18:35:11.952Z",
+    "diff": 0.6372574108058969,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T18-35-01-257Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T19:05:13.168Z",
+    "diff": 3.5050680821714155,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T19-05-02-217Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T19:35:12.861Z",
+    "diff": 2.5769960981007185,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T19-35-01-448Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T20:05:13.475Z",
+    "diff": 3.7016253445540355,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T20-05-02-136Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T20:35:13.224Z",
+    "diff": 3.429089499967098,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T20-35-01-824Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T21:05:12.865Z",
+    "diff": 3.4986705271341636,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T21-05-01-503Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T21:35:13.817Z",
+    "diff": 1.6586118402292884,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T21-35-02-187Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T22:05:13.730Z",
+    "diff": 2.6223273452218185,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T22-05-02-081Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T22:35:13.551Z",
+    "diff": 2.5941781030579096,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T22-35-02-078Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T23:05:13.924Z",
+    "diff": 3.4497444633730834,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T23-05-01-862Z.html"
+  },
+  {
+    "timestamp": "2025-05-05T23:35:13.106Z",
+    "diff": 1.5736766809728182,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-05T23-35-02-286Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T00:05:12.360Z",
+    "diff": 1.5736766809728182,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T00-05-01-373Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T00:35:12.075Z",
+    "diff": 3.429150429062691,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T00-35-01-628Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T01:05:12.410Z",
+    "diff": 3.4234230940769605,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T01-05-01-331Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T01:35:12.243Z",
+    "diff": 3.4281146344376126,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T01-35-01-671Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T02:05:11.880Z",
+    "diff": 3.422204512165103,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T02-05-01-501Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T02:35:12.806Z",
+    "diff": 3.422204512165103,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T02-35-02-171Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T03:05:13.238Z",
+    "diff": 3.4268960525257546,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T03-05-02-061Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T03:35:11.957Z",
+    "diff": 3.7464691589103927,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T03-35-01-513Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T04:05:12.845Z",
+    "diff": 3.6196147818860234,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T04-05-02-213Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T04:35:12.745Z",
+    "diff": 3.4399348789826303,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T04-35-02-195Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T05:05:13.329Z",
+    "diff": 3.4404223117473736,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T05-05-02-001Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T05:35:12.307Z",
+    "diff": 3.4122121404878714,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T05-35-01-604Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T06:05:12.156Z",
+    "diff": 3.4170255390397086,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T06-05-01-573Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T06:35:12.798Z",
+    "diff": 3.4122121404878714,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T06-35-01-441Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T07:05:12.724Z",
+    "diff": 3.730018303100316,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T07-05-02-056Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T07:35:12.484Z",
+    "diff": 3.730018303100316,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T07-35-02-004Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T08:05:13.036Z",
+    "diff": 3.730018303100316,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T08-05-01-798Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T08:35:12.508Z",
+    "diff": 3.7310540977253948,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T08-35-01-320Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T09:05:13.773Z",
+    "diff": 3.6890739508619026,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T09-05-01-982Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T10:05:14.771Z",
+    "diff": 3.50622573498768,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T10-05-02-112Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T10:15:12.190Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-06T10:24:12.711Z",
+    "diff": 3.402743245091421,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T10-23-59-971Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T10:35:13.073Z",
+    "diff": 3.402743245091421,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T10-35-01-538Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T10:57:15.633Z",
+    "diff": 3.7211226551437564,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T10-57-05-361Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T11:05:12.906Z",
+    "diff": 3.6673549450380794,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T11-05-01-360Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T11:35:12.596Z",
+    "diff": 3.546317079887793,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T11-35-02-181Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T12:05:12.541Z",
+    "diff": 2.1172764692647013,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T12-05-01-920Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T12:35:13.453Z",
+    "diff": 2.364714327761255,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T12-35-01-920Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T13:05:13.231Z",
+    "diff": 2.3691261082234956,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T13-05-01-841Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T13:35:13.421Z",
+    "diff": 3.476431407242764,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T13-35-01-763Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T14:05:13.144Z",
+    "diff": 3.5332410119462927,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T14-05-01-707Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T14:35:13.021Z",
+    "diff": 3.5118921408778174,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T14-35-01-641Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T15:05:12.755Z",
+    "diff": 3.52557981824725,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T15-05-01-303Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T15:35:13.620Z",
+    "diff": 3.5042772211581426,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T15-35-02-104Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T16:05:13.582Z",
+    "diff": 3.4704325624692354,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T16-05-01-994Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T16:35:13.331Z",
+    "diff": 3.4704325624692354,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T16-35-01-913Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T17:05:13.127Z",
+    "diff": 3.488520862364424,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T17-05-01-712Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T17:35:12.278Z",
+    "diff": 3.488520862364424,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T17-35-01-472Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T18:05:12.418Z",
+    "diff": 3.488520862364424,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T18-05-01-643Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T18:35:13.211Z",
+    "diff": 3.504655373769192,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T18-35-01-787Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T19:05:13.008Z",
+    "diff": 3.504655373769192,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T19-05-01-571Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T19:35:13.062Z",
+    "diff": 3.5088150524907338,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T19-35-01-377Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T20:05:12.242Z",
+    "diff": 3.705643486541864,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T20-05-01-395Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T20:35:13.124Z",
+    "diff": 3.597302763476256,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T20-35-01-562Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T21:05:12.778Z",
+    "diff": 3.679929108990515,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T21-05-01-452Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T21:35:13.443Z",
+    "diff": 3.5253277165065504,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T21-35-02-136Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T22:05:12.987Z",
+    "diff": 3.5168192827579428,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T22-05-01-691Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T22:35:12.193Z",
+    "diff": 3.4450963375289363,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T22-35-01-296Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T23:05:12.435Z",
+    "diff": 3.4704325624692354,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T23-05-01-574Z.html"
+  },
+  {
+    "timestamp": "2025-05-06T23:35:13.132Z",
+    "diff": 3.4655796039607702,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-06T23-35-01-723Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T00:05:11.942Z",
+    "diff": 3.4655796039607702,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T00-05-01-422Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T00:35:12.545Z",
+    "diff": 3.4655796039607702,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T00-35-02-202Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T01:05:12.372Z",
+    "diff": 3.439487073798373,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T01-05-01-881Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T01:35:12.145Z",
+    "diff": 3.628563379322993,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T01-35-01-726Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T02:05:14.373Z",
+    "diff": 2.5871941139285584,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T02-05-01-788Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T02:35:11.995Z",
+    "diff": 3.728962897556567,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T02-35-01-630Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T03:05:12.212Z",
+    "diff": 2.7622787728443567,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T03-05-01-257Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T03:35:11.748Z",
+    "diff": 3.6937316792938124,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T03-35-01-478Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T04:05:12.351Z",
+    "diff": 3.4948864313170867,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T04-05-02-002Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T04:35:11.915Z",
+    "diff": 3.4948864313170867,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T04-35-01-610Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T05:05:12.510Z",
+    "diff": 3.497344423288907,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T05-05-02-173Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T05:35:12.253Z",
+    "diff": 3.7236687610018775,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T05-35-01-793Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T06:05:11.812Z",
+    "diff": 3.742954544165389,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T06-05-01-500Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T06:35:13.441Z",
+    "diff": 3.7236687610018775,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T06-35-02-159Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T07:05:12.652Z",
+    "diff": 3.4900334728086215,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T07-05-01-683Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T07:35:12.405Z",
+    "diff": 3.7236687610018775,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T07-35-01-910Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T08:05:12.213Z",
+    "diff": 3.7236687610018775,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T08-05-01-655Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T08:35:11.861Z",
+    "diff": 3.502197381797372,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T08-35-01-467Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T09:05:12.560Z",
+    "diff": 3.4948864313170867,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T09-05-02-123Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T09:35:12.155Z",
+    "diff": 3.4900334728086215,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T09-35-01-843Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T10:05:02.249Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T10-05-01-989Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T10:15:01.651Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T10-15-01-501Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T10:35:02.034Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T10-35-01-920Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T11:05:01.383Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T11-05-01-270Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T11:35:01.758Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T11-35-01-645Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T12:05:02.180Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T12-05-02-065Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T12:35:01.555Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T12-35-01-436Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T13:05:01.914Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T13-05-01-798Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T13:35:02.352Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T13-35-02-230Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T14:05:01.755Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T14-05-01-588Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T14:35:02.179Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T14-35-02-042Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T15:05:01.553Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T15-05-01-425Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T15:35:01.981Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T15-35-01-818Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T16:05:02.462Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T16-05-02-279Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T16:35:14.436Z",
+    "diff": 3.5412731516057936,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T16-35-01-739Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T17:05:11.901Z",
+    "diff": 3.5677438343792405,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T17-05-01-698Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T17:35:12.480Z",
+    "diff": 3.5672396308978414,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T17-35-02-166Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T18:05:12.007Z",
+    "diff": 3.5756850392112747,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T18-05-01-720Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T18:35:11.937Z",
+    "diff": 3.5756850392112747,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T18-35-01-275Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T19:05:12.385Z",
+    "diff": 3.5618194434728023,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T19-05-02-181Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T19:35:12.185Z",
+    "diff": 3.5677438343792405,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T19-35-01-653Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T20:05:11.829Z",
+    "diff": 3.4652644767848964,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T20-05-01-429Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T20:35:13.187Z",
+    "diff": 2.9159978092358734,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T20-35-02-268Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T21:05:11.943Z",
+    "diff": 2.757173712595192,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T21-05-01-441Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T21:35:12.543Z",
+    "diff": 1.9700490526961965,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T21-35-02-225Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T22:05:12.267Z",
+    "diff": 3.452533338879572,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T22-05-01-790Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T22:35:12.007Z",
+    "diff": 1.9636834837435342,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T22-35-01-532Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T23:05:11.547Z",
+    "diff": 3.4866300993091786,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T23-05-01-254Z.html"
+  },
+  {
+    "timestamp": "2025-05-07T23:35:12.204Z",
+    "diff": 3.4865670738740038,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-07T23-35-01-818Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T00:05:11.777Z",
+    "diff": 3.5102016120645807,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T00-05-01-461Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T00:35:12.328Z",
+    "diff": 3.471314918561684,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T00-35-02-080Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T01:05:11.838Z",
+    "diff": 3.427953419161371,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T01-05-01-581Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T01:35:12.547Z",
+    "diff": 3.421966002819758,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T01-35-02-114Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T02:05:12.145Z",
+    "diff": 1.9640616363545835,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T02-05-01-801Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T02:35:12.440Z",
+    "diff": 1.9855533097492155,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T02-35-01-402Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T03:05:12.009Z",
+    "diff": 3.7742528265007445,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T03-05-01-685Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T03:35:11.552Z",
+    "diff": 3.7603609927055683,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T03-35-01-281Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T04:05:12.098Z",
+    "diff": 3.688122415563249,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T04-05-01-811Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T04:35:11.635Z",
+    "diff": 3.4584577297860095,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T04-35-01-369Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T05:05:12.849Z",
+    "diff": 3.4865670738740038,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T05-05-01-883Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T05:35:12.428Z",
+    "diff": 3.4655796039607702,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T05-35-02-102Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T06:05:12.008Z",
+    "diff": 3.4956427365391853,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T06-05-01-680Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T06:35:11.511Z",
+    "diff": 3.4956427365391853,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T06-35-01-290Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T07:05:12.217Z",
+    "diff": 3.488520862364424,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T07-05-01-795Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T07:35:11.757Z",
+    "diff": 3.4655796039607702,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T07-35-01-477Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T08:05:12.293Z",
+    "diff": 3.4704325624692354,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T08-05-02-009Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T08:35:11.885Z",
+    "diff": 3.7098661906985804,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T08-35-01-567Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T09:05:12.435Z",
+    "diff": 3.7089838346061317,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T09-05-02-145Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T09:35:12.103Z",
+    "diff": 2.591416818085275,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T09-35-01-705Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T10:05:14.592Z",
+    "diff": 3.5125965786012263,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T10-05-02-106Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T10:15:11.756Z",
+    "diff": -1,
+    "reportFile": null
+  },
+  {
+    "timestamp": "2025-05-08T10:35:12.469Z",
+    "diff": 3.5343403537365576,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T10-35-02-031Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T11:05:12.041Z",
+    "diff": 3.546189135549434,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T11-05-01-717Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T11:35:01.449Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T11-35-01-316Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T12:05:01.845Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T12-05-01-724Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T12:35:02.320Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T12-35-02-167Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T13:05:01.676Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T13-05-01-560Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T13:35:02.059Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T13-35-01-942Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T14:05:01.420Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T14-05-01-304Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T14:35:01.788Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T14-35-01-672Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T15:05:02.147Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T15-05-02-031Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T15:35:01.534Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T15-35-01-416Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T16:05:02.335Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T16-05-02-054Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T16:35:01.977Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T16-35-01-713Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T17:05:01.656Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T17-05-01-383Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T17:35:02.656Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T17-35-02-242Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T18:05:02.193Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T18-05-01-987Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T18:35:01.888Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T18-35-01-695Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T19:05:02.303Z",
+    "diff": -1,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T19-05-02-155Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T19:35:13.450Z",
+    "diff": 3.705202308495639,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T19-35-01-583Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T20:05:12.753Z",
+    "diff": 3.690706458405418,
+    "reportFile": "reports/component-corootServiceMap-desktop-2025-05-08T20-05-01-717Z.html"
+  },
+  {
+    "timestamp": "2025-05-08T20:35:13.795Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.690706458405418,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T20-35-02-020Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T20-35-02-020Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T21:05:13.719Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.8011358487343134,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T21-05-02-073Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T21-05-02-073Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T21:35:13.483Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.5406154511776318,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T21-35-02-010Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T21-35-02-010Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T22:05:13.405Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.5092479922122171,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T22-05-01-765Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T22-05-01-765Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T22:35:12.801Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.581489746914751,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T22-35-01-686Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T22-35-01-686Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T23:05:13.654Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.26878667423812225,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T23-05-02-080Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T23-05-02-080Z.png"
+  },
+  {
+    "timestamp": "2025-05-08T23:35:13.262Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6309997025499581,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-08T23-35-01-948Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-08T23-35-01-948Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T00:05:12.817Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6753912776579245,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T00-05-01-709Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T00-05-01-709Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T00:35:13.364Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6753912776579245,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T00-35-02-084Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T00-35-02-084Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T01:05:12.505Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6272575009893524,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T01-05-01-626Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T01-05-01-626Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T01:35:13.083Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6479678753954734,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T01-35-01-805Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T01-35-01-805Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T02:05:14.210Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6852843351991563,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T02-05-01-639Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T02-05-01-639Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T02:35:14.351Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6862983694329521,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T02-35-01-685Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T02-35-01-685Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T03:05:14.067Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.7088099294232173,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T03-05-01-812Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T03-05-01-812Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T03:35:13.887Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6074378468032005,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T03-35-01-441Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T03-35-01-441Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T04:05:13.855Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.5741877690566954,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T04-05-02-164Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T04-05-02-164Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T04:35:13.729Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.575349503799248,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T04-35-02-123Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T04-35-02-123Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T05:05:13.723Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.5603417971390714,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T05-05-01-990Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T05-05-01-990Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T05:35:13.648Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7037262377977878,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T05-35-02-022Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T05-35-02-022Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T06:05:13.441Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6987236689110623,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T06-05-01-921Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T06-05-01-921Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T06:35:13.570Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6987236689110623,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T06-35-01-925Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T06-35-01-925Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T07:05:13.598Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.699690513492034,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T07-05-01-889Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T07-05-01-889Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T07:35:13.703Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6470214434439306,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T07-35-02-011Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T07-35-02-011Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T08:05:13.426Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7559151996971423,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T08-05-01-964Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T08-05-01-964Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T08:35:13.591Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.35727806170736326,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T08-35-01-718Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T08-35-01-718Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T09:05:14.676Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.36985208620643034,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T09-05-01-927Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T09-05-01-927Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T09:35:13.949Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.28109028960817717,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T09-35-02-094Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-09T09-35-02-094Z.png"
+  },
+  {
+    "timestamp": "2025-05-09T10:05:02.425Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T10-05-02-184Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T10:15:01.771Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T10-15-01-654Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T10:35:02.174Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T10-35-02-039Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T11:05:01.537Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T11-05-01-406Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T11:35:01.987Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T11-35-01-798Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T12:05:01.361Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T12-05-01-240Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T12:35:01.750Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T12-35-01-627Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T13:05:02.281Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T13-05-02-028Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T13:35:01.684Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T13-35-01-563Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T14:05:02.084Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T14-05-01-926Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T14:35:01.549Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T14-35-01-363Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T15:05:01.912Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T15-05-01-796Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T15:35:02.364Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T15-35-02-204Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T16:05:01.907Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T16-05-01-634Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T16:35:02.372Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T16-35-02-226Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T17:05:01.738Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T17-05-01-606Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T17:35:02.160Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T17-35-02-016Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T18:05:01.561Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T18-05-01-413Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T18:35:02.114Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T18-35-01-852Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T19:05:01.514Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T19-05-01-386Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T19:35:01.910Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T19-35-01-792Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T20:05:02.373Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T20-05-02-198Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T20:35:01.750Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T20-35-01-628Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T21:05:02.194Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T21-05-02-035Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T21:35:01.635Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T21-35-01-461Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T22:05:02.200Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T22-05-01-960Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T22:35:01.714Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T22-35-01-503Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T23:05:02.167Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T23-05-02-032Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-09T23:35:01.569Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-09T23-35-01-433Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-10T00:05:01.981Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T00-05-01-831Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-10T00:35:14.022Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.590762824152943,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T00-35-01-235Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T00-35-01-235Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T01:05:12.228Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7415464937141056,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T01-05-01-276Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T01-05-01-276Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T01:35:11.813Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7415464937141056,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T01-35-01-488Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T01-35-01-488Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T02:05:13.191Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 1.5305156702090263,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T02-05-02-076Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T02-05-02-076Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T02:35:12.426Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.592790892620535,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T02-35-01-462Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T02-35-01-462Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T03:05:11.909Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.6838646872718424,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T03-05-01-682Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T03-05-01-682Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T03:35:13.247Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7461102298753906,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T03-35-02-176Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T03-35-02-176Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T04:05:12.443Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.684890969083295,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T04-05-01-503Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T04-05-01-503Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T04:35:12.283Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6368197113309018,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T04-35-01-705Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T04-35-01-705Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T04:35:36.284Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6368197113309018,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T04-35-24-946Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T04-35-24-946Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T05:05:13.360Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6563575962351123,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T05-05-01-546Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T05-05-01-546Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T05:35:12.806Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6652017073588943,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T05-35-01-663Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T05-35-01-663Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T05:37:10.891Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.643491362477352,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T05-37-00-451Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T05-37-00-451Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T06:05:13.935Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.501945280056672,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T06-05-02-058Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T06-05-02-058Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T06:35:13.673Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6509374088100732,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T06-35-02-235Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T06-35-02-235Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T07:05:12.383Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 1.5253778967577947,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T07-05-01-916Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T07-05-01-916Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T07:35:12.065Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.7415464937141056,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T07-35-01-667Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T07-35-01-667Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T08:05:12.658Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6262795575262206,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T08-05-01-326Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T08-05-01-326Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T08:35:12.869Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x840",
+    "diff": 0.7611340958870771,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T08-35-01-929Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T08-35-01-929Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T09:05:13.427Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.5470661370124867,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T09-05-02-127Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T09-05-02-127Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T09:35:12.824Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6291197207985126,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T09-35-01-704Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T09-35-01-704Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T10:05:14.602Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-08T10:15:11.642Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x840",
+    "diff": 3.6210633525371834,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T10-05-01-874Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T10-05-01-874Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T10:35:13.119Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.559257832186206,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T10-35-01-890Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T10-35-01-890Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T11:05:12.337Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7328753950076643,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T11-05-01-364Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T11-05-01-364Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T11:35:11.872Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.3401737218767908,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T11-35-01-596Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T11-35-01-596Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T12:05:13.271Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.804786837663341,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T12-05-02-205Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T12-05-02-205Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T12:35:11.863Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7237479226850936,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T12-35-01-542Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T12-35-01-542Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T13:05:12.425Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6665708282072793,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T13-05-02-105Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T13-05-02-105Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T13:35:12.062Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 0.674455008407054,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T13-35-01-684Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T13-35-01-684Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T14:05:11.458Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.649109671190002,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T14-05-01-299Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T14-05-01-299Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T14:35:12.281Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.54668265446135,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T14-35-01-728Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T14-35-01-728Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T15:05:12.039Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.625475132999425,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T15-05-01-533Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T15-05-01-533Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T15:35:11.674Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 2.1039475665832805,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T15-35-01-309Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T15-35-01-309Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T16:05:12.197Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 2.1027740344275214,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T16-05-01-918Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T16-05-01-918Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T16:35:12.358Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 2.1145745522159873,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T16-35-01-460Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T16-35-01-460Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T17:05:12.057Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7371562041293007,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T17-05-01-623Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T17-05-01-623Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T17:35:12.521Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.459572795177565,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T17-35-01-414Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T17-35-01-414Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T18:05:12.207Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4426766882843096,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T18-05-01-763Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T18-05-01-763Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T18:35:11.795Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4426766882843096,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T18-35-01-495Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T18-35-01-495Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T19:05:12.474Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.679613981814641,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T19-05-02-037Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T19-05-02-037Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T19:35:13.303Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6793618800739414,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T19-35-01-818Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T19-35-01-818Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T20:05:12.251Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.679298854638766,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T20-05-01-554Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T20-05-01-554Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T20:35:12.124Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.680055159860865,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T20-35-01-519Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T20-35-01-519Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T21:05:12.602Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4260443119046182,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T21-05-01-499Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T21-05-01-499Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T21:35:12.700Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4260443119046182,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T21-35-01-872Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T21-35-01-872Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T22:05:13.348Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6388683760933724,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T22-05-01-970Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T22-05-01-970Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T22:35:12.994Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.63880744699778,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T22-35-01-606Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T22-35-01-606Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T23:05:12.672Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7179334464009637,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T23-05-01-304Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T23-05-01-304Z.png"
+  },
+  {
+    "timestamp": "2025-05-10T23:35:13.309Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5043378312213014,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-10T23-35-02-029Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-10T23-35-02-029Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T00:05:11.983Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.47074768964511,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T00-05-01-575Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T00-05-01-575Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T00:35:01.360Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T00-35-01-240Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T01:05:01.738Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T01-05-01-601Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T01:35:02.123Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T01-35-02-002Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T02:05:01.491Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T02-05-01-373Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T02:35:01.885Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T02-35-01-735Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T03:05:12.499Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.637345148703551,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T03-05-02-184Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T03-05-02-184Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T03:35:12.447Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.5940409023884325,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T03-35-01-788Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T03-35-01-788Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T04:05:12.273Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6676878383088027,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T04-05-01-704Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T04-05-01-704Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T04:35:15.453Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x992",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.50716006301405,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T04-35-01-815Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T04-35-01-815Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T05:05:12.748Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x992",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.497943800260116,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T05-05-01-695Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T05-05-01-695Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T05:35:12.704Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.590263045118241,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T05-35-02-115Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T05-35-02-115Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T06:05:12.584Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.655075515521078,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T06-05-01-964Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T06-05-01-964Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T06:35:13.822Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x992",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.425644794929567,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T06-35-01-871Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T06-35-01-871Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T07:05:13.541Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x1023",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.378789821610067,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T07-05-02-086Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T07-05-02-086Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T07:35:12.542Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4796426619254555,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T07-35-01-823Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T07-35-01-823Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T08:05:12.200Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.744023950487375,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T08-05-01-796Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T08-05-01-796Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T08:35:11.945Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.869958293971109,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T08-35-01-463Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T08-35-01-463Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T09:05:13.587Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.67122172585319,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T09-05-02-216Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T09-05-02-216Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T09:35:12.447Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6631181561393373,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T09-35-01-865Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T09-35-01-865Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T10:05:02.839Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T10-05-02-639Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T10:15:02.303Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T10-15-02-089Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-11T10:35:14.004Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.5897397112552714,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T10-35-01-579Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T10-35-01-579Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T11:05:11.813Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6562331683373426,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T11-05-01-302Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T11-05-01-302Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T11:35:12.535Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.737093178694126,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T11-35-02-088Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T11-35-02-088Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T12:05:12.091Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.8650685766554462,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T12-05-01-802Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T12-05-01-802Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T12:35:11.873Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5105966693853496,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T12-35-01-415Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T12-35-01-415Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T13:05:13.131Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5105966693853496,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T13-05-02-121Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T13-05-02-121Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T13:35:12.522Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5154863867010122,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T13-35-01-495Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T13-35-01-495Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T14:05:12.118Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7438369002578367,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T14-05-01-783Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T14-05-01-783Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T14:35:11.981Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.73999234871217,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T14-35-01-478Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T14-35-01-478Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T15:05:12.118Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7184376498823632,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T15-05-01-283Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T15-05-01-283Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T15:35:12.132Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7674084130132393,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T15-35-01-402Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T15-35-01-402Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T16:05:12.012Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6099787377470514,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T16-05-01-395Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T16-05-01-395Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T16:35:11.831Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7501394437753244,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T16-35-01-334Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T16-35-01-334Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T17:05:12.535Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.650018400586869,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T17-05-02-076Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T17-05-02-076Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T17:35:12.559Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.761170559207631,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T17-35-01-835Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T17-35-01-835Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T18:05:12.505Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6392288329027123,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T18-05-01-847Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T18-05-01-847Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T18:35:12.446Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6392288329027123,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T18-35-01-807Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T18-35-01-807Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T19:05:12.044Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x810",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6848257728524203,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T19-05-01-760Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T19-05-01-760Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T19:35:12.827Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7455886600283863,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T19-35-01-457Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T19-35-01-457Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T20:05:13.867Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.74539307133576,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T20-05-02-263Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T20-05-02-263Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T20:35:13.598Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7588886911269888,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T20-35-02-173Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T20-35-02-173Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T21:05:13.352Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.66511813172442,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T21-05-02-004Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T21-05-02-004Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T21:35:13.279Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.435370897040403,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T21-35-01-729Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T21-35-01-729Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T22:05:12.489Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x992",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4578730926343173,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T22-05-01-589Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T22-05-01-589Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T22:35:13.489Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7149712509477446,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T22-35-01-976Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T22-35-01-976Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T23:05:13.118Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7149712509477446,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T23-05-01-784Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T23-05-01-784Z.png"
+  },
+  {
+    "timestamp": "2025-05-11T23:35:13.129Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.785749538247695,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-11T23-35-01-540Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-11T23-35-01-540Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T00:05:12.601Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.785749538247695,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T00-05-01-448Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T00-05-01-448Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T00:35:12.914Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4660734609919746,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T00-35-02-008Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T00-35-02-008Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T01:05:12.928Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.461520752832507,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T01-05-02-303Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T01-05-02-303Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T01:35:12.708Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4595540477635365,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T01-35-02-230Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T01-35-02-230Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T02:05:15.976Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x1053",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.379867585811178,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T02-05-02-295Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T02-05-02-295Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T02:35:13.183Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x1023",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.422808621467741,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T02-35-01-237Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T02-35-01-237Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T03:05:13.207Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x992",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.480885127585133,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T03-05-01-591Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T03-05-01-591Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T03:35:13.265Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4458190335532755,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T03-35-01-617Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T03-35-01-617Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T04:05:12.444Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x962",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.442336321382318,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T04-05-01-579Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T04-05-01-579Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T04:35:13.019Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6202240728419524,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T04-35-01-853Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T04-35-01-853Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T05:05:13.226Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7102443433096295,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T05-05-01-335Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T05-05-01-335Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T05:35:12.571Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.1213099748277353,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T05-35-01-526Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T05-35-01-526Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T06:05:13.070Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.1213099748277353,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T06-05-01-859Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T06-05-01-859Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T06:35:12.656Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.668175271073546,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T06-35-01-404Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T06-35-01-404Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T07:05:13.403Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.668175271073546,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T07-05-02-035Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T07-05-02-035Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T07:35:13.118Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.1213099748277353,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T07-35-01-771Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T07-35-01-771Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T08:05:13.513Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7072191224212356,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T08-05-01-434Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T08-05-01-434Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T08:35:13.420Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.731231813222862,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T08-35-01-941Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T08-35-01-941Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T09:05:13.049Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7122611572352255,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T09-05-01-786Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T09-05-01-786Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T09:35:12.927Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7903132744089794,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T09-35-01-438Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T09-35-01-438Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T10:05:02.848Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T10-05-02-655Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T10:15:02.218Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T10-15-02-082Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T10:35:01.644Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T10-35-01-529Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T11:05:02.008Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T11-05-01-886Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T11:35:12.609Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7406226030639185,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T11-35-01-265Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T11-35-01-265Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T12:05:01.970Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T12-05-01-852Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T12:35:01.343Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T12-35-01-226Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T13:05:01.704Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T13-05-01-577Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T13:35:02.086Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T13-35-01-953Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T14:05:01.442Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T14-05-01-325Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T14:35:01.886Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T14-35-01-707Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T15:05:02.288Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T15-05-02-147Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T15:35:01.733Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T15-35-01-562Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T16:05:02.112Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T16-05-01-993Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T16:35:01.489Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T16-35-01-372Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T17:05:01.876Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T17-05-01-727Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T17:35:02.310Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T17-35-02-191Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T18:05:01.664Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T18-05-01-545Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T18:35:02.037Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T18-35-01-916Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T19:05:01.385Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T19-05-01-268Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T19:35:01.769Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": null,
+    "test_dimensions": "N/A",
+    "baseline_dimensions": "N/A",
+    "diff": -1,
+    "final_status": "unknown",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T19-35-01-651Z.html",
+    "testImage": null
+  },
+  {
+    "timestamp": "2025-05-12T20:05:12.501Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 0.8154092595598863,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T20-05-02-056Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T20-05-02-056Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T20:35:12.441Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4161725317014087,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T20-35-01-781Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T20-35-01-781Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T21:05:12.122Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.3977110157367667,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T21-05-01-687Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T21-05-01-687Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T21:35:12.624Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.424360969356403,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T21-35-01-387Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T21-35-01-387Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T22:05:12.398Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7397209992495912,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T22-05-01-869Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T22-05-01-869Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T22:35:12.017Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5271565120277266,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T22-35-01-683Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T22-35-01-683Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T23:05:11.513Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.5271565120277266,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T23-05-01-268Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T23-05-01-268Z.png"
+  },
+  {
+    "timestamp": "2025-05-12T23:35:13.281Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.474298888897013,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-12T23-35-01-796Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-12T23-35-01-796Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T00:05:12.162Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4743598179926054,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T00-05-01-534Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T00-05-01-534Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T00:35:11.619Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6844039148879313,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T00-35-01-431Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T00-35-01-431Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T01:05:12.177Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.4391416003458009,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T01-05-01-872Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T01-05-01-872Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T01:35:11.823Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.4819662171062373,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T01-35-01-433Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T01-35-01-433Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T02:05:12.437Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 0.9512130084735542,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T02-05-02-075Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T02-05-02-075Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T02:35:12.039Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x840",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.750673966036675,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T02-35-01-708Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T02-35-01-708Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T03:05:11.603Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7324292964911847,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T03-05-01-288Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T03-05-01-288Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T03:35:12.389Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7456016124427336,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T03-35-01-873Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T03-35-01-873Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T04:05:12.230Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6212998694119498,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T04-05-01-646Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T04-05-01-646Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T04:35:11.831Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6819452466775364,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T04-35-01-488Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T04-35-01-488Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T05:05:12.587Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6888911635751245,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T05-05-02-082Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T05-05-02-082Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T05:35:12.208Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6932765082985024,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T05-35-01-844Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T05-35-01-844Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T06:05:12.661Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6656985026381657,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T06-05-01-466Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T06-05-01-466Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T06:35:12.718Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.6602872154754988,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T06-35-02-028Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T06-35-02-028Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T07:05:13.255Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.681410794279161,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T07-05-02-041Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T07-05-02-041Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T07:35:12.998Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7299082790841904,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T07-35-01-532Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T07-35-01-532Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T08:05:12.684Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.8518337417877198,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T08-05-01-255Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T08-05-01-255Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T08:35:13.474Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.4415538608881944,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T08-35-01-973Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T08-35-01-973Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T09:05:12.747Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.6888787207853477,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T09-05-01-739Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T09-05-01-739Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T09:35:12.828Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.688815695350173,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T09-35-02-026Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T09-35-02-026Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T10:05:14.556Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-10T10:15:11.489Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 2.6292987949780646,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T10-05-01-457Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T10-05-01-457Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T10:35:12.735Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T10:15:11.543Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 0,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T10-35-01-918Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T10-35-01-918Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T11:05:12.463Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T10:15:11.543Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.513794061869549,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T11-05-02-002Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T11-05-02-002Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T11:35:12.377Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T10:15:11.543Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.8957760013978073,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T11-35-01-797Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T11-35-01-797Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T12:05:12.097Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T10:15:11.543Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 1.8906254991586424,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T12-05-01-662Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T12-05-01-662Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T12:35:12.893Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T10:15:11.543Z",
+    "test_dimensions": "1761x932",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.577086273162196,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../../reports/component-corootServiceMap-desktop-2025-05-13T12-35-01-434Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T12-35-01-434Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T21:15:26.886Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T12:37:40.799Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7502654946456744,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../reports/component-corootServiceMap-desktop-2025-05-13T21-15-15-162Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T21-15-15-162Z.png"
+  },
+  {
+    "timestamp": "2025-05-13T21:45:45.546Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T12:37:40.799Z",
+    "test_dimensions": "1761x901",
+    "baseline_dimensions": "1761x871",
+    "diff": 3.7836689752883577,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../reports/component-corootServiceMap-desktop-2025-05-13T21-45-34-473Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-13T21-45-34-473Z.png"
+  },
+  {
+    "timestamp": "2025-05-14T01:32:04.247Z",
+    "component": "corootServiceMap",
+    "viewport": "desktop",
+    "baseline_mtime": "2025-05-13T12:37:40.799Z",
+    "test_dimensions": "1761x871",
+    "baseline_dimensions": "1761x871",
+    "diff": 2.533981905438083,
+    "final_status": "match",
+    "secondary_diff_percent": null,
+    "reportFile": "../reports/component-corootServiceMap-desktop-2025-05-14T01-31-52-756Z.html",
+    "testImage": "test/corootServiceMap-desktop-2025-05-14T01-31-52-756Z.png"
+  }
+]

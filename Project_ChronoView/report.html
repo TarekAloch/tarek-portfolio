@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coroot Map Difference History</title>
+    <script src="tests/vendor/chart.min.js"></script>
+    <!-- Include a date adapter for Chart.js time scale -->
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <!-- Include Chart.js Zoom Plugin -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom/dist/chartjs-plugin-zoom.min.js"></script> -->
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .chart-container {
+            position: relative;
+            height: 35vh;
+            width: 70vw;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            cursor: pointer;
+        }
+        h1, h2 {
+             text-align: center;
+             color: #495057;
+             margin-bottom: 30px;
+        }
+        h2 {
+            margin-top: 40px;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        .legend-container, .summary-stats, .baseline-info {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            width: 85vw;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .legend-item, .stat-item {
+            display: inline-block;
+            margin: 5px 15px;
+            font-size: 0.9em;
+        }
+        .legend-color-box {
+            display: inline-block;
+            width: 15px;
+            height: 15px;
+            margin-right: 5px;
+            vertical-align: middle;
+            border: 1px solid #ccc;
+        }
+        .color-green { background-color: rgba(75, 192, 192, 0.6); }
+        .color-yellow { background-color: rgba(255, 205, 86, 0.6); }
+        .color-red { background-color: rgba(255, 99, 132, 0.6); }
+        .stat-label { font-weight: bold; color: #555; }
+        .stat-value {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+        .stat-value.ok { background-color: #e8f5e9; color: #388e3c; } /* Green */
+        .stat-value.warn { background-color: #fff8e1; color: #ffa000; } /* Yellow */
+        .stat-value.alert { background-color: #ffebee; color: #d32f2f; } /* Red */
+
+        .baseline-info img {
+            max-width: 300px; /* Limit baseline preview size */
+            border: 1px solid #ddd;
+            margin-top: 10px;
+        }
+         .baseline-info p {
+            font-size: 0.85em;
+            color: #6c757d;
+        }
+         .baseline-info code {
+            background: #e9ecef;
+            padding: 2px 5px;
+            border-radius: 3px;
+            color: #333;
+        }
+
+        /* --- Modal Styles --- */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1000; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
+            padding-top: 50px; /* Location of the box */
+        }
+        .modal-content {
+            margin: auto;
+            display: block;
+            max-width: 90%;
+            max-height: 90vh;
+        }
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .modal-close:hover,
+        .modal-close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        /* --- End Modal Styles --- */
+
+        /* --- Recent Reports List Style -- */
+        .recent-reports {
+            width: 70vw;
+            margin: 30px auto;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .recent-reports h2 {
+             text-align: left;
+             margin-bottom: 15px;
+             font-size: 1.2em;
+        }
+        .recent-reports ul {
+            list-style: none;
+            padding: 0;
+            max-height: 200px; /* Limit height and add scroll */
+            overflow-y: auto;
+        }
+        .recent-reports li {
+            padding: 5px 0;
+            border-bottom: 1px solid #eee;
+        }
+         .recent-reports li:last-child {
+            border-bottom: none;
+        }
+        .recent-reports a {
+            text-decoration: none;
+            color: #007bff;
+        }
+         .recent-reports a:hover {
+            text-decoration: underline;
+        }
+         .recent-reports .report-timestamp {
+            font-size: 0.8em;
+            color: #6c757d;
+            margin-left: 10px;
+        }
+         /* --- End Recent Reports Style --- */
+    </style>
+</head>
+<body>
+    <h1>Coroot Service Map - Percentage Difference History</h1>
+
+    <div class="summary-stats" id="summaryStatsContainer">
+        <h2>Summary</h2>
+        <div id="summaryStatsContent">
+            <!-- Stats will be loaded here -->
+             Loading stats...
+        </div>
+    </div>
+
+    <div class="legend-container">
+        <span class="legend-item"><span class="legend-color-box color-green"></span>0-10% Diff (Ok)</span>
+        <span class="legend-item"><span class="legend-color-box color-yellow"></span>10-30% Diff (Warn)</span>
+        <span class="legend-item"><span class="legend-color-box color-red"></span>&gt;30% Diff (Alert)</span>
+    </div>
+
+    <div class="baseline-info">
+        <h2>Current Baseline</h2>
+        <img id="baselineImage" src="" alt="Current Baseline Image" style="cursor: pointer;" title="Click to zoom"/>
+        <!-- <p>To update the baseline, run:<br><code>node tests/component-test.js corootServiceMap --update-baseline</code></p> -->
+    </div>
+
+    <h2>Line Chart</h2>
+    <div class="chart-container">
+        <canvas id="diffChartLine"></canvas>
+    </div>
+
+    <h2>Filled Line Chart</h2>
+    <div class="chart-container">
+        <canvas id="diffChartFilled"></canvas>
+    </div>
+
+    <!-- --- Section for Recent Report Links --- -->
+    <div class="recent-reports">
+         <h2>Recent Test Reports</h2>
+         <ul id="recentReportsList">
+             <!-- Links will be populated by JS -->
+             <li>Loading reports...</li>
+         </ul>
+    </div>
+    <!-- --- End Recent Reports Section --- -->
+
+    <!-- --- Modal HTML Structure --- -->
+    <div id="imageModal" class="modal">
+        <span class="modal-close" title="Close">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <!-- --- End Modal HTML --- -->
+
+    <script>
+        // --- Configuration & Helpers ---
+        const THRESHOLDS = {
+            warn: 10,
+            alert: 30,
+        };
+        const COLORS = {
+            green: 'rgb(75, 192, 192)',
+            yellow: 'rgb(255, 205, 86)',
+            red: 'rgb(255, 99, 132)',
+        };
+        const BG_COLORS = {
+            green: 'rgba(75, 192, 192, 0.3)',
+            yellow: 'rgba(255, 205, 86, 0.3)',
+            red: 'rgba(255, 99, 132, 0.3)',
+        };
+        const BASELINE_IMAGE_PATH = 'tests/screenshots/baseline/corootServiceMap-desktop-BASELINE.png';
+
+        function getDiffColor(diffPercent) {
+            if (diffPercent >= THRESHOLDS.alert) return COLORS.red;
+            if (diffPercent >= THRESHOLDS.warn) return COLORS.yellow;
+            return COLORS.green;
+        }
+        function getDiffBgColor(diffPercent) {
+            if (diffPercent >= THRESHOLDS.alert) return BG_COLORS.red;
+            if (diffPercent >= THRESHOLDS.warn) return BG_COLORS.yellow;
+            return BG_COLORS.green;
+        }
+
+        // --- Chart Rendering Logic ---
+        function createChartConfig(chartId, historyData, fillChart = false) {
+            const labels = historyData.map(entry => entry.timestamp);
+            const dataPoints = historyData.map(entry => ({ x: entry.timestamp, y: entry.diff }));
+
+            return {
+                type: 'line',
+                data: {
+                    datasets: [{
+                        label: '% Difference',
+                        data: dataPoints,
+                        tension: 0.1,
+                        pointRadius: 3,
+                        pointHoverRadius: 6,
+                        fill: fillChart ? 'origin' : false,
+                        segment: {
+                            borderColor: ctx => getDiffColor(ctx.p1.parsed.y),
+                            backgroundColor: fillChart ? ctx => getDiffBgColor(ctx.p1.parsed.y) : undefined,
+                        },
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                     onClick: (event, elements, chart) => {
+                        if (elements.length > 0) {
+                            const dataIndex = elements[0].index;
+                            const historyItem = historyData[dataIndex]; // Assumes historyData is accessible here
+                            console.log('Clicked point:', dataIndex, 'History item:', historyItem);
+                            if (historyItem && historyItem.reportFile) {
+                                // Construct the correct relative path from report.html
+                                const reportUrl = `tests/${historyItem.reportFile}`;
+                                console.log('Opening report:', reportUrl);
+                                window.open(reportUrl, '_blank');
+                            } else {
+                                console.log('No report file associated with this data point.');
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            type: 'time',
+                            time: {
+                                tooltipFormat: 'PPpp',
+                                unit: 'minute',
+                                displayFormats: {
+                                     minute: 'MMM d, HH:mm'
+                                }
+                            },
+                            title: {
+                                display: true,
+                                text: 'Timestamp (UTC)',
+                                font: {
+                                    family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+                                }
+                            },
+                            ticks: {
+                                source: 'auto',
+                                maxRotation: 45,
+                                minRotation: 0,
+                                font: {
+                                    family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+                                }
+                            }
+                        },
+                        y: {
+                            min: 0,
+                            beginAtZero: true,
+                            suggestedMax: Math.max(50, Math.max(...dataPoints.map(p => p.y)) * 1.1),
+                            title: {
+                                display: true,
+                                text: 'Difference (%)',
+                                font: {
+                                    family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+                                }
+                            },
+                            ticks: {
+                                callback: function(value) {
+                                    return value.toFixed(2) + '%';
+                                },
+                                font: {
+                                    family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+                                }
+                            }
+                        }
+                    },
+                    plugins: {
+                         /* --- Zoom plugin removed --- */
+                         /*
+                         zoom: { 
+                            pan: {
+                                enabled: true,
+                                mode: 'xy', // Enable panning on both axes
+                            },
+                            zoom: {
+                                wheel: { enabled: true }, // Enable zooming with mouse wheel
+                                pinch: { enabled: true }, // Enable zooming with pinch gesture
+                                mode: 'xy', // Enable zooming on both axes
+                            },
+                            // --- Limit Y-axis zoom/pan minimum to 0 ---
+                            // --- Limit X-axis zoom-in (min range 1 minute) ---
+                            limits: {
+                                y: { min: 0 },
+                                x: { minRange: 60000 } // 60000ms = 1 minute
+                            }
+                        },
+                        */
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) label += ': ';
+                                    if (context.parsed.y !== null) {
+                                        label += context.parsed.y.toFixed(4) + '%';
+                                    }
+                                    return label;
+                                }
+                            }
+                        },
+                        legend: {
+                            display: false
+                        }
+                    }
+                }
+            };
+        }
+
+        // --- Calculate and Display Summary Stats ---
+        function displaySummaryStats(historyData) {
+            const statsContainer = document.getElementById('summaryStatsContent');
+            if (!historyData || historyData.length === 0) {
+                statsContainer.innerHTML = '<p>No history data available yet.</p>';
+                return;
+            }
+
+            const diffs = historyData.map(d => d.diff).filter(d => d >= 0); // Filter out -1 errors
+            const alertCount = diffs.filter(d => d >= THRESHOLDS.alert).length;
+            const maxDiff = diffs.length > 0 ? Math.max(...diffs) : 0;
+            const avgDiff = diffs.length > 0 ? diffs.reduce((sum, val) => sum + val, 0) / diffs.length : 0;
+
+            let maxDiffClass = 'ok';
+            if (maxDiff >= THRESHOLDS.alert) maxDiffClass = 'alert';
+            else if (maxDiff >= THRESHOLDS.warn) maxDiffClass = 'warn';
+
+            let avgDiffClass = 'ok';
+            if (avgDiff >= THRESHOLDS.alert) avgDiffClass = 'alert';
+            else if (avgDiff >= THRESHOLDS.warn) avgDiffClass = 'warn';
+
+             statsContainer.innerHTML = `
+                <span class="stat-item"><span class="stat-label">Average Diff:</span> <span class="stat-value ${avgDiffClass}">${avgDiff.toFixed(3)}%</span></span>
+                <span class="stat-item"><span class="stat-label">Max Diff:</span> <span class="stat-value ${maxDiffClass}">${maxDiff.toFixed(3)}%</span></span>
+                <span class="stat-item"><span class="stat-label">Alerts (&gt;${THRESHOLDS.alert}%):</span> <span class="stat-value ${alertCount > 0 ? 'alert' : 'ok'}">${alertCount}</span></span>
+            `;
+        }
+
+        // --- Populate Recent Reports List ---
+        function displayRecentReports(historyData, maxReports = 10) {
+            const listElement = document.getElementById('recentReportsList');
+            if (!listElement) return;
+
+            listElement.innerHTML = ''; // Clear loading message
+
+            if (!historyData || historyData.length === 0) {
+                listElement.innerHTML = '<li>No report history found.</li>';
+                return;
+            }
+
+            // Get the last N reports (newest first)
+            const recentEntries = historyData.slice(-maxReports).reverse();
+
+            recentEntries.forEach(entry => {
+                if (entry.reportFile) {
+                    const listItem = document.createElement('li');
+                    const link = document.createElement('a');
+                    // Link relative to the root of where report.html is served
+                    link.href = `tests/${entry.reportFile}`;
+                    link.textContent = entry.reportFile.replace('reports/', ''); // Cleaner name
+                    link.target = '_blank'; // Open in new tab
+
+                    const timestampSpan = document.createElement('span');
+                    timestampSpan.className = 'report-timestamp';
+                    timestampSpan.textContent = `(${new Date(entry.timestamp).toLocaleString()})`;
+
+                    listItem.appendChild(link);
+                    listItem.appendChild(timestampSpan);
+                    listElement.appendChild(listItem);
+                } 
+            });
+
+             if (listElement.children.length === 0) {
+                 listElement.innerHTML = '<li>No valid report files found in recent history.</li>';
+            }
+        }
+
+        // --- Fetch Data and Initialize ---
+        async function fetchDataAndInitialize() {
+            const errorContainer = document.getElementById('summaryStatsContent');
+            try {
+                // Add cache busting parameter to prevent stale data
+                 const cacheBust = `?cacheBust=${new Date().getTime()}`;
+                // --- Corrected Path ---
+                const response = await fetch('tests/screenshots/diff_history.json' + cacheBust); // Corrected path
+
+                if (!response.ok) {
+                    throw new Error(`History file (tests/screenshots/diff_history.json) not found or could not be loaded. Status: ${response.status}`);
+                }
+                const historyData = await response.json();
+
+                if (!historyData || historyData.length === 0) {
+                   throw new Error('History data is empty or invalid.');
+                }
+
+                // Sort data chronologically just in case
+                historyData.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
+
+                // Update Baseline Image Src (after correcting the constant)
+                document.getElementById('baselineImage').src = BASELINE_IMAGE_PATH + cacheBust; // Add cache bust here too
+
+                // --- Reverted Chart Creation & Stats Display ---
+                // Display Stats
+                displaySummaryStats(historyData);
+
+                // --- Display Recent Reports ---
+                displayRecentReports(historyData); 
+
+                // Create Charts
+                const lineCtx = document.getElementById('diffChartLine').getContext('2d');
+                const filledCtx = document.getElementById('diffChartFilled').getContext('2d');
+
+                // Pass historyData to config function so onClick can access it
+                new Chart(lineCtx, createChartConfig('diffChartLine', historyData, false));
+                new Chart(filledCtx, createChartConfig('diffChartFilled', historyData, true));
+                // --- End Reverted Code ---
+
+            } catch (error) {
+                 console.error('Error initializing page:', error);
+                 // Display a user-friendly error message
+                if (errorContainer) {
+                     errorContainer.innerHTML = `<p style="color: red; font-weight: bold;">Error loading history data: ${error.message}</p><p>Please ensure test runs have completed and the 'tests/screenshots/diff_history.json' file exists and is accessible.</p>`;
+                }
+                 // Optionally hide chart containers if data fails to load
+                document.getElementById('diffChartLine').parentElement.style.display = 'none';
+                document.getElementById('diffChartFilled').parentElement.style.display = 'none';
+                 document.querySelector('.legend-container').style.display = 'none'; // Hide legend too
+                 document.querySelector('.baseline-info').style.display = 'none'; // Hide baseline info
+                 // --- Hide recent reports on error too ---
+                 const recentReportsDiv = document.querySelector('.recent-reports');
+                 if (recentReportsDiv) recentReportsDiv.style.display = 'none'; 
+            }
+        }
+
+        // --- Initial Load ---
+        document.addEventListener('DOMContentLoaded', fetchDataAndInitialize);
+
+        // --- Modal Javascript --- 
+        const modal = document.getElementById("imageModal");
+        const baselineImg = document.getElementById("baselineImage");
+        const modalImg = document.getElementById("modalImage");
+        const closeBtn = document.querySelector(".modal-close");
+
+        if (baselineImg) {
+             baselineImg.onclick = function(){
+                if (this.src) { // Only open if image has loaded
+                    modal.style.display = "block";
+                    modalImg.src = this.src;
+                }
+            }
+        }
+        if (closeBtn) {
+             closeBtn.onclick = function() {
+                modal.style.display = "none";
+            }
+        }
+        // Also close modal if clicking outside the image content
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        // --- End Modal Javascript ---
+    </script>
+
+</body>
+</html> 
