@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visual Test Report: corootServiceMap (desktop) </title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; line-height: 1.6; padding: 20px; color: #333; }
+        .container { max-width: 1800px; margin: 0 auto; }
+        h1, h2 { border-bottom: 1px solid #eee; padding-bottom: 8px; margin-bottom: 16px; }
+        .comparison { display: flex; flex-wrap: wrap; gap: 20px; border-bottom: 1px solid #eee; padding-bottom: 20px; margin-bottom: 20px; }
+        .image-container { border: 1px solid #ccc; padding: 15px; background: #f9f9f9; border-radius: 4px; flex: 1; min-width: 300px; max-width: 32%; box-sizing: border-box; }
+        .image-container img { max-width: 100%; height: auto; display: block; border: 1px solid #eee; }
+        .image-container h2 { margin-top: 0; font-size: 1.1em; }
+        .stats { background: #f0f0f0; padding: 15px; border: 1px solid #ddd; border-radius: 4px; margin-bottom: 25px; font-size: 0.95em; }
+        .stats p { margin: 8px 0; }
+        .stats code { background: #e0e0e0; padding: 2px 5px; border-radius: 3px; font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace; }
+        .label { font-weight: bold; color: #555; min-width: 120px; display: inline-block;}
+        .error { color: #d32f2f; font-weight: bold; background: #ffebee; padding: 2px 6px; border-radius: 3px;} /* Red */
+        .warning { color: #ffa000; font-weight: bold; background: #fff8e1; padding: 2px 6px; border-radius: 3px; } /* Yellow/Orange */
+        .success { color: #388e3c; font-weight: bold; background: #e8f5e9; padding: 2px 6px; border-radius: 3px;} /* Green */
+
+        /* --- Modal Styles --- */
+        .modal {
+            display: none; 
+            position: fixed; 
+            z-index: 1000; 
+            left: 0;
+            top: 0;
+            width: 100%; 
+            height: 100%; 
+            overflow: auto; 
+            background-color: rgba(0,0,0,0.8); 
+            padding-top: 50px; 
+        }
+        .modal-content {
+            margin: auto;
+            display: block;
+            max-width: 90%;
+            max-height: 90vh;
+        }
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .modal-close:hover,
+        .modal-close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        /* --- End Modal Styles --- */
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Visual Test Report </h1>
+        <div class="stats">
+            <p><span class="label">Component:</span> corootServiceMap</p>
+            <p><span class="label">Viewport:</span> desktop (1920x1117)</p>
+            <p><span class="label">Timestamp:</span> 5/5/2025, 8:05:02 PM</p>
+            <p><span class="label">Baseline File:</span> <code>corootServiceMap-desktop-BASELINE.png</code></p>
+            <p><span class="label">Test Image File:</span> <code>corootServiceMap-desktop-2025-05-05T20-05-02-136Z.png</code></p>
+            <p><span class="label">Baseline Size:</span> 1761x932</p>
+            <p><span class="label">Test Size:</span> 1761x901</p>
+            <p><span class="label">Status:</span> <span style="color: #198754; font-weight: bold;">Match (< 4.0% baseline diff): 3.70%</span></p>
+            
+        </div>
+
+         
+        <div class="comparison">
+            <div class="image-container">
+                <h2>Baseline Image</h2>
+                <img class="report-image" src="../screenshots/baseline/corootServiceMap-desktop-BASELINE.png" alt="Baseline Image" style="cursor: pointer;" title="Click to zoom">
+            </div>
+            <div class="image-container">
+                <h2>Test Image</h2>
+                 <img class="report-image" src="../screenshots/test/corootServiceMap-desktop-2025-05-05T20-05-02-136Z.png" alt="Test Image" style="cursor: pointer;" title="Click to zoom">
+            </div>
+             <div class="image-container">
+                <h2>Difference</h2>
+                <img class="report-image" src="../screenshots/diff/corootServiceMap-desktop-2025-05-05T20-05-02-136Z.png" alt="Difference" style="cursor: pointer;" title="Click to zoom">
+            </div>
+        </div>
+        
+
+    </div>
+
+    <!-- --- Modal HTML Structure --- -->
+    <div id="imageModal" class="modal">
+        <span class="modal-close" title="Close">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <!-- --- End Modal HTML --- -->
+
+     <script>
+        // --- Modal Javascript --- 
+        const modal = document.getElementById("imageModal");
+        const reportImages = document.querySelectorAll(".report-image"); // Get all report images
+        const modalImg = document.getElementById("modalImage");
+        const closeBtn = document.querySelector(".modal-close");
+
+        reportImages.forEach(img => {
+             img.onclick = function(){
+                 if (this.src) {
+                     modal.style.display = "block";
+                     modalImg.src = this.src;
+                 }
+             }
+         });
+
+        if (closeBtn) {
+             closeBtn.onclick = function() {
+                 modal.style.display = "none";
+            }
+        }
+
+        window.onclick = function(event) {
+             if (event.target == modal) {
+                 modal.style.display = "none";
+            }
+        }
+        // --- End Modal Javascript ---
+     </script>
+</body>
+</html>
