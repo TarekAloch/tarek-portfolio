@@ -10,10 +10,8 @@ This system pioneers a visual approach to unmask threats that traditional monito
 
 * **Targeted Visual Anomaly Detection:** Focuses on identifying unexpected internal network connections, which manifest as clear visual/topological changes on Coroot's service map.
 
-    ```markdown
     ![](./docs/assets/elasticpot_event_chronoview_DIFF.png)
     *Figure 1: ChronoView's diff image highlighting an unexpected internal 'elasticpot' to 'map_redis' connection.*
-    ```
 
 * **Reliable Daily Baseline via T-Pot Reset:** Aligns its "known good" baseline capture with T-Pot's daily system reset, ensuring a fresh reference point for detecting post-reset persistent threats.
 * **Intelligent Noise Filtering ("Scenario B"):** Employs a two-stage "Diff-of-Tests" comparison to distinguish genuine anomalies from minor UI rendering variations (~3-4%), significantly reducing false positives and achieving an operational visual stability within a sub-1% variance.
@@ -30,10 +28,8 @@ This system pioneers a visual approach to unmask threats that traditional monito
   * **Individual HTML Reports (`tests/reports/`):** Visual breakdown for each test.
   * **Interactive Dashboard (`report.html`):** Trend visualization.
 
-        ```markdown
         ![](./docs/assets/chronoview_dashboard_graph_overview.png)
         *Figure 2: ChronoView's historical dashboard showing stable diffs over one week.*
-        ```
 
 * **Cron-Ready Automation:** For continuous, unattended monitoring.
 * **Configurable (`tests/config.js`):** URLs, selectors, time windows, etc.
@@ -75,7 +71,7 @@ Project ChronoView demonstrates advanced security monitoring, deep system unders
 
 * ➡️ **[Full Case Study: Project ChronoView: Canary in the Container 🐤](./docs/Case_Study_Canary_in_the_Container.md)** (Detailed narrative, discoveries, and technical validation)
 * **[Project File Structure & Overview](./docs/00_project_overview_structure.md)**
-* **[Foundational Research Excerpts](./docs/Foundational_Research.md)** (Context on Coroot/eBPF selection - *Tarek: ensure this filename is correct for your curated research doc*)
+* **[Foundational Research Excerpts](./docs/Foundational_Research.md)** 
 
 ## Future Work 🛠️
 
